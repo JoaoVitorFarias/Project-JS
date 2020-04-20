@@ -1,3 +1,3 @@
-# Projeto-JS
+# Project-JS
 
-## Projeto: Semana OmniStack 11.0
+## Project: Semana OmniStack 11.0
